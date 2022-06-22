@@ -1,21 +1,21 @@
 //=============『 Utama 』================== //
-global.owner = ['6282138919347'] 
-global.mods = [] 
-global.prems = [] 
+global.owner = ['6285779150501'] 
+global.mods = ['6285779150501'] 
+global.prems = ['6285779150501] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Helga Zexs'
-global.numberowner = '6282138919347'
-global.instagram = 'https://instagram.com/helga_store20'
-global.github = 'https://github.com/Hyzerr'
+global.nameowner = 'Rangga Saputra'
+global.numberowner = '6285779150501'
+global.instagram = 'https://instagram.com/Rangga_story_wa'
+global.github = 'https://github.com/RanggaBotzz'
 global.dana = '081398860278'
-global.pulsa = '082138919347'
+global.pulsa = '085779150501'
 global.gopay = '081398860278'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ShiroBot-Md'
+global.namebot = 'Rangga-Md'
 global.gc = 'https://chat.whatsapp.com/BxrDMvfLeKTHtvAWKHWZbZ'
-global.web = 'https://www.helgastoree.xyz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://instagram.com/Rangga_story_wa' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = '© Helga Zexs'
+global.author = '© Rangga Saputra'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
